@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSS3",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"GitGutter-Edge",
+		"HTMLAttributes",
+		"Indent XML",
+		"Javatar",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"JSLint",
+		"LiveReload",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"View In Browser",
+		"Web Inspector"
+	]
+}
